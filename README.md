@@ -1,231 +1,264 @@
-<div align="center">
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Praveen%20Kumar%20&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="header.svg" width="100%" alt="Glass Banner"><br/><div align="center">👋 Hey, I'm Praveen Kumar!
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=25&duration=4998&pause=1000&color=12FFBD&background=0D29CE00&random=true&width=435&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+Machine+Learning+%26+AI+Builder;%F0%9F%8F%97%EF%B8%8F+Microservices+%26+REST+API+Architect;%F0%9F%92%A1+Hackathon+Warrior+%26+Open+Source+Lover;%F0%9F%A7%A0+Learning+Today%2C+Innovating+Tomorrow;%E2%9A%A1+Turning+Ideas+Into+Scalable+Solutions;%F0%9F%92%A1+Turning+Coffee+Into+Clean+Code;%F0%9F%94%A5+Code.+Build.+Learn.+Repeat." alt="Typing SVG" /></a>
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=BalaMurugan-2005&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/bala-murugan-p-71a566320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/BalaMurugan-2005">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:pbalamurugan260@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%92%BB;Python+%7C+JavaScript+%7C+React;FastAPI+%7C+Node.js+%7C+MySQL;Building+Real+Projects%2C+Not+Just+Tutorials" alt="Typing SVG" />
+</a></div><br/><img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />I'm Praveen Kumar, a 3rd Year B.Tech Artificial Intelligence & Data Science student passionate about building practical software and AI-powered applications.
 
-</div>
+I enjoy working at the intersection of:
 
----
+🤖 Artificial Intelligence & Machine Learning
 
-<!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+🌐 Full Stack Web Development
 
-### 👨‍💻 About Me
+🐍 Python Development
 
-```python
-class BalaMurugan:
-    def __init__(self):
-        self.name       = "Bala Murugan P"
-        self.location   = "Coimbatore, India 🇮🇳"
-        self.education  = "B.Sc Computer Technology @ KG College"
-        self.graduating = "May 2027"
-        self.email      = "pbalamurugan260@gmail.com"
-        
-    @property
-    def passion(self):
-        return ["Full Stack Dev", "ML/AI", "Open Source"]
-    
-    @property  
-    def currently(self):
-        return {
-            "building"  : "POS Billing System (Microservices)",
-            "learning"  : "Spring Boot + Cloud Architecture",
-            "open_to"   : "Internships & Collaborations 🤝"
-        }
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
+⚛️ React & React Native
 
-me = BalaMurugan()
-me.say_hi()
-```
+⚙️ Backend APIs & Automation
 
-<br clear="right"/>
+🗄️ MySQL & Databases
 
----
+🚀 Real-world Problem Solving
 
-<!-- Tech Stack -->
-## 🛠️ Tech Arsenal
+<br clear="right"/>---
 
-<div align="center">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-XGBoost-orange?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+⚡ What I'm Currently Doing
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 College GPT</h3>
-      <p><em>RAG AI Campus Assistant</em></p>
-      <p>Locally-private RAG-based AI campus assistant with custom SQLite vector store, typo correction, multi-query decomposition, and SSE streaming responses.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      </p>
-      <p><img src="https://img.shields.io/badge/🔒_Private-grey?style=flat-square"/> &nbsp; <code>College</code></p>
-    </td>
-    <td width="50%">
-      <h3>💳 PyUPI</h3>
-      <p><em>Digital Payment Application</em></p>
-      <p>UPI-style payment system with secure JWT authentication, send & receive payments, and admin transaction monitoring via Django REST APIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p><img src="https://img.shields.io/badge/🌐_Public-2ea44f?style=flat-square"/> &nbsp; <a href="https://github.com/BalaMurugan-2005/PyUPI.git">View repo →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎓 Student Grade Management</h3>
-      <p><em>Academic Records System</em></p>
-      <p>Full-stack grade management with role-based access for students, staff, and admins, built on Node.js and Express with a clean JS frontend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-      <p><img src="https://img.shields.io/badge/🌐_Public-2ea44f?style=flat-square"/> &nbsp; <a href="https://github.com/BalaMurugan-2005">View repo →</a></p>
-    </td>
-    <td width="50%">
-      <h3>🏪 POS Billing System</h3>
-      <p><em>Microservices Architecture</em></p>
-      <p>Enterprise-grade point of sale with React frontend, Spring Boot REST APIs, Django analytics backend, and PostgreSQL for persistent storage.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <p><img src="https://img.shields.io/badge/🔒_Private-grey?style=flat-square"/> &nbsp; <code>Enterprise</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>📈 Product Price Prediction AI</h3>
-      <p><em>Machine Learning Model</em></p>
-      <p>ML-powered price prediction using XGBoost, trained on product features to forecast pricing with high accuracy.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      </p>
-      <p><img src="https://img.shields.io/badge/🌐_Public-2ea44f?style=flat-square"/> &nbsp; <a href="https://github.com/BalaMurugan-2005/Price_Pridiction.git">View repo →</a></p>
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%">🤖 AI / ML
+
+• Learning Machine Learning & Deep Learning
+
+• Exploring Computer Vision
+
+• Working with OpenCV
+
+• Exploring YOLO-based applications
+
+• Learning practical AI development
+
+• Building AI-oriented projects
+
+</td><td width="50%">🌐 Full Stack Development
+
+• Building React applications
+
+• Learning Node.js & Express
+
+• Developing Python APIs
+
+• Working with FastAPI
+
+• Connecting frontend with REST APIs
+
+• Working with MySQL & MongoDB
+
+</td>
+</tr>
+</table>---
+
+🧰 Tech Arsenal
+
+<div align="center">💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css&perline=6" />⚛️ Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=6" />📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=react&perline=6" />React Native • Expo
+
+⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi&perline=8" />🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" />🤖 AI / Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch&perline=6" />🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=8" />🔄 Automation
+
+n8n • REST APIs • Webhooks • ngrok
+
+</div>---
+
+🚀 Featured Projects
+
+<div align="center">🚀 Project| 🧠 What I Built| 🔧 Technologies
+🚌 Bus Destination Alarm| Application concept that monitors the user's location and triggers an alarm when the destination is a few kilometers away| React • React Native • Expo • Python • GPS
+📝 Leave Desk| Employee leave management system with employee search, leave requests, OTP verification and manager approval workflow| HTML • CSS • JavaScript • n8n • Webhooks
+📊 Project Pulse| Project monitoring application designed to manage and monitor project progress| React • Node.js • Express • MongoDB
+📝 Student Feedback System| Full-stack student feedback platform with student/admin workflow and database integration| HTML • CSS • JavaScript • FastAPI • MySQL
+🛒 Food Cart| Responsive food shopping application with routing and shared application state| React • React Router • Context API
+🌦️ Weather Application| Weather application using an external weather API to retrieve and display weather information| React • JavaScript • REST API
+🔳 QR Generator| Web application for generating QR codes dynamically| React • JavaScript
+🐍 Snake & Ladder| Multiplayer browser-based Snake & Ladder game| HTML • CSS • JavaScript
+🎨 Vibe Coding| Creative frontend experiments focused on UI, animations and responsive design| HTML • CSS • JavaScript
+🖥️ Collaborative Whiteboard| Web-based collaborative drawing/whiteboard application concept| React • JavaScript • Web Technologies
+
+</div>---
+
+💡 What I Like Building
+
+I prefer projects that solve a real problem instead of projects that only demonstrate a technology.
+
+Some areas I'm particularly interested in:
+
+🤖 AI-powered Applications
+
+🌐 Full Stack Web Applications
+
+📱 Mobile Applications
+
+🗺️ Location-based Applications
+
+⚙️ Automation & Workflow Systems
+
+🔌 REST API Based Applications
+
+🗄️ Database-driven Systems
 
 ---
 
-## 🏆 Achievements & Certifications
+🧠 My Learning Journey
+
+                    ┌─────────────────────┐
+                    │    PRAVEEN KUMAR    │
+                    │     AI & DS Student │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+          💻 Coding         🤖 AI/ML          🌐 Web
+              │                │                │
+      Python / JavaScript   ML / DL          HTML / CSS
+      Java / C             OpenCV            JavaScript
+              │             YOLO              React
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                        ⚙️ Backend
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+                 Python                Node.js
+               FastAPI / Flask        Express.js
+                    │                     │
+                    └──────────┬──────────┘
+                               ▼
+                         🗄️ Databases
+                               │
+                         MySQL / MongoDB
+                               │
+                               ▼
+                         🚀 Real Projects
+                               │
+                               ▼
+                    🔥 Build • Deploy • Learn
+
+---
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BalaMurugan-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://streak-stats.demolab.com?user=PraveenKumar5627&theme=tokyonight&hide_border=true" alt="Praveen Kumar GitHub Streak" />
 
-</div>
+<br/><br/>
 
-<br/>
 
-**📜 Coursera Certifications**
 
-| 🎓 Course | 🔗 Certificate |
-|---|---|
-| 🐍 Python for Everybody | [![View](https://img.shields.io/badge/View-Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/4a17ddZ) |
-| 🌿 Introduction to Git and GitHub | [![View](https://img.shields.io/badge/View-Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/4pT2HTg) |
-| ⚛️ Build Your First React Website | [![View](https://img.shields.io/badge/View-Certificate-0056D2?style=flat-square&logo=coursera)](https://bit.ly/3XBHlIK) |
+🏆 What I Like Working With
+
+<div align="center">🤖 AI / Machine Learning
+██████████████████░░
+
+🌐 Full Stack Development
+███████████████████░
+
+🐍 Python Development
+████████████████████
+
+⚛️ React Development
+██████████████████░░
+
+⚙️ Backend & APIs
+█████████████████░░░
+
+🗄️ Databases
+████████████████░░░░
+
+📱 Mobile Development
+███████████████░░░░░
+
+🔥 Real-world Projects
+████████████████████
+
+</div>---
+
+🎯 My Goals
+
+🚀 Become a strong AI & Software Development professional
+
+🧠 Improve practical Machine Learning & Deep Learning skills
+
+🌐 Build production-style full-stack applications
+
+📱 Develop useful mobile applications
+
+⚙️ Improve my backend and API development skills
+
+💡 Participate in more hackathons & coding competitions
+
+🗣️ Improve communication, confidence and interview skills
+
+🌍 Contribute to meaningful open-source projects
+
+🔥 Keep building instead of only learning
 
 ---
 
-## ⚡ Fun Facts & Extras
+📚 Currently Learning
 
-```yaml
-🎯 Current Goal   : Land a Full Stack / Backend Internship
-🏆 Hackathons     : Multiple participations — won & learned!
-🌐 Languages      : Tamil (Native) | English (B1 Intermediate)
-🎓 College        : KG College of Arts & Science, Coimbatore
-📅 Graduating     : May 2027
-💡 Superpower     : Building full-stack apps from scratch in hours
-🔥 Fun Fact       : I build microservices systems as a fresher!
-```
+<div align="center">React
 
----
+→ Components → Props → State → Hooks → Context API → Routing
 
-<!-- Snake animation -->
-<div align="center">
+Backend
 
-### 🐍 Watch my contributions get eaten!
+→ Node.js → Express → REST APIs → Authentication → Webhooks
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BalaMurugan-2005/BalaMurugan-2005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BalaMurugan-2005/BalaMurugan-2005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BalaMurugan-2005/BalaMurugan-2005/output/pacman-contribution-graph.svg">
-</picture>
+Python Backend
 
----
+→ Flask → FastAPI → REST APIs → Database Integration
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+Databases
 
-<div align="center">
+→ MySQL → MongoDB → CRUD Operations
 
-**💬 "Code is like humor. When you have to explain it, it's bad." — Cory House**
+AI / ML
 
-<br/>
+→ Machine Learning → Deep Learning → Computer Vision
 
-⭐ *If you like my work, consider giving my repos a star!* ⭐
+Mobile
 
-</div>
+→ React Native → Expo → Location-based Applications
+
+</div>---
+
+🌐 Let's Connect
+
+<div align="center"><a href="https://github.com/prabaher">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="mailto:prabaher3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
+
+<div align="center">💭 Developer Mindset
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Don't+just+learn+technology.+Build+with+it.;Every+bug+is+another+lesson.;Ideas+%E2%86%92+Code+%E2%86%92+Projects+%E2%86%92+Experience.;Keep+learning.+Keep+building.+Keep+moving.+%F0%9F%9A%80" /><br/>⭐ Explore my repositories • Build something useful • Keep learning
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" /><br/><br/>
+
+<img src="footer.svg" width="100%" alt="Glass Banner"></div>
